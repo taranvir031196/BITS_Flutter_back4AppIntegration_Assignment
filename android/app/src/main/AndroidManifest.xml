@@ -5,7 +5,7 @@
     <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
     <uses-permission android:name="android.permission.VIBRATE" />
    <application
-        android:label="sirotask"
+        android:label="TaskList"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
