@@ -12,9 +12,9 @@
 ## ScreenShots
 <table>
     <tr>
-        <td><img width=300 src="https://github.com/JacksiroKe/SiroTasks/blob/main/screenshots/image1.jpg"/></td>
-        <td><img width=300 src="https://github.com/JacksiroKe/SiroTasks/blob/main/screenshots/image2.jpg"/></td>
-        <td><img width=300 src="https://github.com/JacksiroKe/SiroTasks/blob/main/screenshots/image3.jpg"/></td>
+        <td><img width=300 src="https://ibb.co/mB6gHkC"/></td>
+        <td><img width=300 src="https://ibb.co/RgzgzVL"/></td>
+        <td><img width=300 src="https://ibb.co/S5fYhXm"/></td>
     </tr>
 </table>
 
