@@ -93,11 +93,11 @@ class HomeView extends StatelessWidget {
         leading: const Icon(Icons.task),
         title: Text(
           setTask.title!,
-          style: const TextStyle(fontSize: 18, fontWeight: FontWeight.bold),
+          style: const TextStyle(fontSize: 20, fontWeight: FontWeight.bold),
         ),
         subtitle: Text(
           setTask.content!,
-          style: const TextStyle(fontSize: 14),
+          style: const TextStyle(fontSize: 16),
         ),
         onTap: () {
           Get.to(
