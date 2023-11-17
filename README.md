@@ -3,7 +3,7 @@
 # TaskList App
 
 ## Description
-* A Flutter Task App with [Parse](https://parseplatform.org/) ([Back4app](https://back4app.com)) as the backend demonstrating CRUD operations.
+* A Flutter TaskList App with [Parse](https://parseplatform.org/) ([Back4app](https://back4app.com)) as the backend demonstrating CRUD operations.
 * Getx State Management
  
 ## Objective
