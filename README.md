@@ -12,9 +12,9 @@
 ## ScreenShots
 <table>
     <tr>
-        <td><img width=300 src="https://ibb.co/mB6gHkC"/></td>
-        <td><img width=300 src="https://ibb.co/RgzgzVL"/></td>
-        <td><img width=300 src="https://ibb.co/S5fYhXm"/></td>
+        <td><a href="https://ibb.co/DDgj2K1"><img src="https://i.ibb.co/d0JHYKf/Screenshot-20231118-024645.png" alt="Screenshot-20231118-024645" border="0"></a></td>
+        <td><a href="https://ibb.co/gWcbVBD"><img src="https://i.ibb.co/R6JGyVC/Screenshot-20231118-023734.png" alt="Screenshot-20231118-023734" border="0"></a></td>
+        <td><a href="https://ibb.co/sRGy9Ck"><img src="https://i.ibb.co/W5wgv0q/Screenshot-20231118-025721.png" alt="Screenshot-20231118-025721" border="0"></a></td>
     </tr>
 </table>
 
